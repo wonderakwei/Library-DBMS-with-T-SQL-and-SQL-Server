@@ -1,6 +1,6 @@
 # Library Management System with T-SQL and SQL Server
 
-![LibraryDBMS](library.jpg)
+![LibraryDBMS](dbdiagram.png)
 
 ## Overview
 
